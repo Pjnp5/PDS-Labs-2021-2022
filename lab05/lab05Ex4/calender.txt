@@ -1,0 +1,12 @@
+-- The calendar library can be used to multiple endings. Because of that it demands an high
+level of abstrations and adaptability.
+
+--The library implements the design pattern factory method, and with that the methods that allow a very high level of abstration
+since it doenst need the spefication of the class objetct we want to create.
+Methods:
+    - getInstance() - agent responsible for ording the calender creation
+        This method can be called with 0, 1 or 2 arguments (Timezone and or Locale). then the method createCalendar will be called.
+        In the case of a missing argument, an deafault value will be used instead.
+    - createCalendar() - calender creator
+
+        

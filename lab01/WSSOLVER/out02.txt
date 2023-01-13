@@ -1,0 +1,22 @@
+JOAO           	  4	   12, 3	   UpRight
+TIAGO          	  5	    1, 9	      Down
+RAFAEL         	  6	    6, 5	        Up
+CASEMIRO       	  8	   10,11	        Up
+OLIVER         	  6	   12, 6	     Right
+SEBASTIAO      	  9	   15, 1	   UpRight
+CHUVA          	  5	    4, 2	      Down
+. . . . L . . . T . . . . . . 
+. . . . E . . . I . . . . . . 
+. . . . A . . . A . O . . . . 
+. C . . F . . . G . R . . . . 
+. H . . A . . . O . I . . . . 
+. U . . R . . . . . M . . . . 
+. V . . . . . . O . E . . . . 
+. A . . . . . A . . S . . . . 
+. . . . . O I . . . A . . . . 
+. . . . A T . . . . C . . . . 
+. . . O S . . . . . . . . . . 
+. . J A . O L I V E R . . . . 
+. . B . . . . . . . . . . . . 
+. E . . . . . . . . . . . . . 
+S . . . . . . . . . . . . . . 
